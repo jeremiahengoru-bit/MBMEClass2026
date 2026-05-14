@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs / data
+*.log
+*.csv
+*.h5
+*.ckpt
+*.pkl
+checkpoints/
+logs/
+runs/
+
+# Images output (uncomment if you don't want to commit results)
+# outputs/
+# results/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+Thumbs.db
