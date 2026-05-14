@@ -1,6 +1,6 @@
-# Group 2 Image Segmenter
+# Segmentation Techniques
 
-A collection of classical and machine-learning–based image segmentation techniques implemented in a single Jupyter notebook (`Group2segmenter.ipynb`). The notebook compares multiple segmentation approaches (thresholding, K-Means clustering, morphological operations, etc.) and visualizes the results side by side.
+A collection of classical and machine-learning–based image segmentation techniques implemented in a single Jupyter notebook (`SegmentationTechniques.ipynb`). The notebook compares multiple segmentation approaches (thresholding, K-Means clustering, morphological operations, etc.) and visualizes the results side by side.
 
 > Originally developed in Google Colab. It also runs locally with a standard Python/Jupyter environment (see notes below).
 
@@ -17,7 +17,7 @@ A collection of classical and machine-learning–based image segmentation techni
 
 ```
 .
-├── Group2segmenter.ipynb     # Main notebook
+├── SegmentationTechniques.ipynb     # Main notebook
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
 ├── LICENSE                   # MIT License
@@ -29,7 +29,7 @@ A collection of classical and machine-learning–based image segmentation techni
 
 ### Option 1 — Google Colab (recommended, zero setup)
 
-1. Upload `Group2segmenter.ipynb` to [Google Colab](https://colab.research.google.com/).
+1. Upload `SegmentationTechniques.ipynb` to [Google Colab](https://colab.research.google.com/).
 2. Run all cells. When prompted, upload an image using the Colab file picker.
 
 ### Option 2 — Run locally
@@ -85,4 +85,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Authors
 
-Group 2
+Jeremiah
